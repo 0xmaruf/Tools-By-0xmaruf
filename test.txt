@@ -1,2 +1,1 @@
 <link rel=attachment href="file:///etc/passwd">
-<link rel=attachment href="file:///C:/">
