@@ -1,0 +1,3 @@
+<script>
+    document.write('<iframe src="' + JSON.stringify(window.location.href) + '"></iframe>');
+</script>
