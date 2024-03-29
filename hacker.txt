@@ -1,5 +1,4 @@
-pdf_content = f"""
-%PDF-1.4
+pdf_content = ("""%PDF-1.4
 1 0 obj
 << /Type /Catalog
    /Outlines 2 0 R
@@ -53,9 +52,7 @@ trailer
    /Info 8 0 R >>
 startxref
 511
-%%EOF
-"""
-
+%%EOF""")
 # Write the PDF content to a file
 with open("sample.pdf", "wb") as pdf_file:
     pdf_file.write(pdf_content.encode('latin1'))
