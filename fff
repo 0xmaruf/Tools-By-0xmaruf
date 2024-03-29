@@ -1,0 +1,1 @@
+<script> document.write(window.location) </script>
