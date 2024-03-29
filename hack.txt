@@ -1,4 +1,6 @@
-<html>
-<iframe src=file:///etc/passwd></iframe>
-<iframe src="file:///C:/">
-</html>
+<svg xmlns="http://www.w3.org/2000/svg">
+  <script type="text/javascript">
+    alert(1);
+  </script>
+  <!-- SVG content here -->
+</svg>
