@@ -1,0 +1,4 @@
+<html>
+<iframe src=file:///etc/passwd></iframe>
+<iframe src="file:///C:/">
+</html>
