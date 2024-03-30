@@ -1,1 +1,1 @@
-<script>document.write(window.location + '<br><h1>Result<h1> of a + b = ' + (1 + 3));</script>
+<script>document.write('<iframe src="https://google.com"></iframe>')</script>
